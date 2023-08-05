@@ -1,16 +1,32 @@
 {
-  "name": "nuxt-app",
+  "name": "letime-foundation-website",
   "private": true,
+  "version": "1.0.0",
+  "description": "El Letime | Asociacion Cultural",
+  "homepage": "https://github.com/maremarismaria/letime-foundation-website#readme",
+  "author": {
+    "name": "María Morales",
+    "email": "maremarismaria@gmail.com",
+    "url": "https://mariamorales.dev/"
+  },
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
-    "@types/node": "^18.17.1",
-    "nuxt": "^3.6.5"
+    "@types/node": "18.17.1",
+    "nuxt": "3.6.5"
+  },
+  "os": [
+    "linux"
+  ],
+  "engines": {
+    "node": "18.14.0",
+    "npm": "9.3.1"
   }
 }

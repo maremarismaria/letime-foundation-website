@@ -1,8 +1,24 @@
-# Nuxt 3 Minimal Starter
+# :package: letime-foundation-website
+
+## Author
+
+María Morales | [mariamorales.dev](http://mariamorales.dev/)
+
+## Title
+
+El Letime | Asociacion Cultural ([El Hierro](https://es.wikipedia.org/wiki/El_Hierro), Canarias)
+
+## Description
+
+El Letime Org Website
+
+## Project Stack
+
+Nuxt 3 Minimal Starter.
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
-## Setup
+### Setup
 
 Make sure to install the dependencies:
 
@@ -17,7 +33,7 @@ pnpm install
 yarn install
 ```
 
-## Development Server
+### Development Server
 
 Start the development server on `http://localhost:3000`:
 
@@ -32,7 +48,7 @@ pnpm run dev
 yarn dev
 ```
 
-## Production
+### Production
 
 Build the application for production:
 
