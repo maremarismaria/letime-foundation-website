@@ -2,7 +2,11 @@
   <header>
     <nav>
       <ul>
-        <li class="site-title">El Letime | Asociación Cultural (<a class="link" href="https://es.wikipedia.org/wiki/El_Hierro" target="_blank">El Hierro</a>, Canarias)</li>
+        <li class="site-title">
+          <a class="link" href="https://toponimiacanarias.ulpgc.es/items/show/261288" target="_blank">El Letime</a>
+          &nbsp;| Asociación Cultural
+          &nbsp;(<a class="link" href="https://es.wikipedia.org/wiki/El_Hierro" target="_blank">El Hierro</a>, Canarias)
+        </li>
       </ul>
     </nav>
   </header>
