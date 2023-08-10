@@ -2,7 +2,7 @@
   <header>
     <nav>
       <ul>
-        <li class="site-title">El Letime | Asociacion Cultural (<a class="link" href="https://es.wikipedia.org/wiki/El_Hierro" target="_blank">El Hierro</a>, Canarias)</li>
+        <li class="site-title">El Letime | Asociación Cultural (<a class="link" href="https://es.wikipedia.org/wiki/El_Hierro" target="_blank">El Hierro</a>, Canarias)</li>
       </ul>
     </nav>
   </header>
@@ -14,7 +14,7 @@
   </main>
   <footer>
     <ul>
-      <li>&copy; {{ new Date().getFullYear() }} El Letime. All rights reserved.</li>
+      <li>&copy; {{ new Date().getFullYear() }} El Letime. Todos los derechos reservados.</li>
       <li>Photo by <a class="link" href="https://unsplash.com/@towfiqu999999?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Towfiqu barbhuiya</a> on <a class="link" href="https://unsplash.com/photos/Cv1IZqKJQzU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></li>
     </ul>
   </footer>

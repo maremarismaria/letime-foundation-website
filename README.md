@@ -6,7 +6,7 @@ María Morales | [mariamorales.wiki](https://mariamorales.wiki/)
 
 ## Title
 
-El Letime | Asociacion Cultural ([El Hierro](https://es.wikipedia.org/wiki/El_Hierro), Canarias)
+El Letime | Asociación Cultural ([El Hierro](https://es.wikipedia.org/wiki/El_Hierro), Canarias)
 
 ## Description
 
